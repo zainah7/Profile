@@ -1,5 +1,4 @@
-![Andrey GitHub Banner](./assets/GitHubHeader.jpg)
-
+![2d18287c-2a4e-4116-adef-53fe7691c3d3](https://user-images.githubusercontent.com/88329634/230681442-c0b96f48-39af-43cf-bf7b-0ae756c20b7e.jpg)
 [![Visits Badge](https://badges.pufler.dev/visits/androfficial/androfficial)](https://github.com/androfficial)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrii-nkn)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-da4763?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/and.r.official)
