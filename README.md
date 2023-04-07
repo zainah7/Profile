@@ -11,7 +11,6 @@ I quickly learn new technologies and I want to become a professional in my field
 
 ---
 
-<img src="./assets/cool.gif" width="200" align="right" alt="Gif-Cool">
 
 ### :hammer_and_wrench: &nbsp;Tech Stack
 
