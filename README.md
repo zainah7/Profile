@@ -1,9 +1,7 @@
 ![2d18287c-2a4e-4116-adef-53fe7691c3d3](https://user-images.githubusercontent.com/88329634/230681442-c0b96f48-39af-43cf-bf7b-0ae756c20b7e.jpg)
-[![Visits Badge](https://badges.pufler.dev/visits/androfficial/androfficial)](https://github.com/androfficial)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrii-nkn)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-da4763?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/and.r.official)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-Profile-3390ec?style=flat&logo=telegram)](https://t.me/MistrixOreo)
-[![Skype Badge](https://img.shields.io/badge/Skype-Profile-00Aff0?style=flat&logo=skype&logoColor=white)](https://join.skype.com/invite/zGlHz1PtI8uA)
+
+[![Visits Badge](https://github.com/zainah7)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-da4763?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_zozo7_/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-ea4335?style=flat&logo=Gmail&logoColor=white)](mailto:andriinkn@gmail.com)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" align="left">Hey there
